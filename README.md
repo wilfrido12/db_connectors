@@ -26,4 +26,4 @@ This module was built to compile all the connectors I use on a daily basis.
     connects = Connects(username, password, query)
     ```
  
-    
+Check the ```examples.py``` file to see specific cases
