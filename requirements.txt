@@ -7,7 +7,7 @@ cx-Oracle==7.0.0
 docutils==0.14
 idna==2.7
 imagesize==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 neo4j==1.7.0rc2
 neobolt==1.7.0
