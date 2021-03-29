@@ -17,7 +17,7 @@ packaging==18.0
 pandas==0.23.4
 pyasn1==0.4.4
 pyexasol==0.4.2
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.2.2
 python-dateutil==2.7.3
 pytz==2018.5
